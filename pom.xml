@@ -192,7 +192,7 @@
               <!-- Non-filtered -->
               <resource>src/main/resources</resource>
               <!-- Filtered -->
-              <resource>${project.build.directory}/ZY</resource>
+              <resource>${project.build.directory}/HYXYZZY</resource>
             </resourceBases>
           </webApp>
           <scanTargets>
