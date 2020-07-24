@@ -11,8 +11,8 @@
   <name>pyx</name>
 
   <scm>
-    <url>https://github.com/ajanata/PretendYoureXyzzy</url>
-    <connection>scm:git:ssh://git@github.com/ajanata/PretendYoureXyzzy.git</connection>
+    <url>https://github.com/xxc3nsoredxx/HackYourXyzzy</url>
+    <connection>scm:git:https://github.com/xxc3nsoredxx/HackYourXyzzy.git</connection>
   </scm>
 
   <properties>
@@ -31,6 +31,11 @@
       <id>ajanata</id>
       <name>Andy Janata</name>
       <email>ajanata@gmail.com</email>
+    </developer>
+    <developer>
+      <id>xxc3nsoredxx</id>
+      <name>Nice Try</name>
+      <email>Nice Try</email>
     </developer>
   </developers>
 
