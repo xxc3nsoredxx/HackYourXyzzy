@@ -3,7 +3,7 @@ Hack Your Xyzzy
 
 A fork of [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) adapted for the Hackers Against Humanity deck.
 
-The cards can also be found on [Internet Archive](https://archive.org/details/hah_card).
+The cards can also be found on [Internet Archive](https://archive.org/details/hah_cards).
 
 A Cards Against Humanity clone, server and web client. See [license](WebContent/license.html) for full details.
 
