@@ -6,13 +6,13 @@
   <groupId>net.socialgamer</groupId>
   <artifactId>pyx</artifactId>
   <version>0.7.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>pyx</name>
 
   <scm>
-    <url>https://github.com/ajanata/PretendYoureXyzzy</url>
-    <connection>scm:git:ssh://git@github.com/ajanata/PretendYoureXyzzy.git</connection>
+    <url>https://github.com/xxc3nsoredxx/HackYourXyzzy</url>
+    <connection>scm:git:https://github.com/xxc3nsoredxx/HackYourXyzzy.git</connection>
   </scm>
 
   <properties>
@@ -32,11 +32,26 @@
       <name>Andy Janata</name>
       <email>ajanata@gmail.com</email>
     </developer>
+    <developer>
+      <id>xxc3nsoredxx</id>
+      <name>Nice Try</name>
+      <email>Nice Try</email>
+    </developer>
   </developers>
 
   <build>
-    <finalName>ZY</finalName>
+    <finalName>HYXYZZY</finalName>
     <plugins>
+      <plugin>
+        <groupId>org.apache.tomcat.maven</groupId>
+        <artifactId>tomcat7-maven-plugin</artifactId>
+        <version>2.2</version>
+        <configuration>
+          <url>http://localhost:8080/manager/text</url>
+          <server>TomcatServer</server>
+          <path>/hah</path>
+        </configuration>
+      </plugin>
       <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>exec-maven-plugin</artifactId>
@@ -177,7 +192,7 @@
               <!-- Non-filtered -->
               <resource>src/main/resources</resource>
               <!-- Filtered -->
-              <resource>${project.build.directory}/ZY</resource>
+              <resource>${project.build.directory}/HYXYZZY</resource>
             </resourceBases>
           </webApp>
           <scanTargets>
