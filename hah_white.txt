@@ -2,7 +2,7 @@ Catching STDs at conventions.
 Hookers and blow
 Embrace, Extend, and Extinguish
 Underwear was his maniac catnip
-Goto Fail;      Goto Fail;
+Goto Fail; Goto Fail;
 Confusing feelings about cartoon characters
 Internet of things
 Waking up next to the asshole on your left
