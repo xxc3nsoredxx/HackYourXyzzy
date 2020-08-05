@@ -1,0 +1,48 @@
+Best Two out of Three Factor Auth
+Self Loathing Browser History
+Password Manager's Password
+Symmetricish Cryptography
+Less Than Zero Day
+Principle of Beast Privilege
+My Dongle
+A shell script with root access
+Unpatched Windows XP box
+Another Brick in the Firewall
+Timing Attack from the Year 9930
+User Behavioral Analytics
+Chrome Emoji Extensio with built in keylogger
+Email asking to verify my username and password
+Privilege Escalation
+Brute Force
+Wildly Irresponsible Disclosure
+Biometric Foot Scanner
+Internet of Unpatched Things
+Botnet of Smartwatches
+Buffer Overflow
+PKI Certificate of Participation
+Checksum and mate
+SHA1 Shank Redemption
+Little Bobby Tables
+Router with a default password
+Poopface Emoji
+Hash Collision
+Self Inflicted DDoS
+Diffie-Hellman-Mayonnaise
+Data breech birth
+Authentication with something you hope to be someday
+Password Cracking
+Pentesting
+Pretty Good Privacy
+Public Key Encryption
+The password 'password'
+C-3DES-P0
+Taylor Swift aka @swiftonsecurity
+Troy Hunt aka @troyhunt
+Bruce Schneier aka @schneierblog
+Netcat
+Nmap
+Private Key
+Public Key
+Spiceworks
+r/netsec
+Brian Krebs aka @briankrebs

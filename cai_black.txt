@@ -1,0 +1,26 @@
+0~1~Pentesting found a _____ process running on the printer
+0~1~SANS has announced that _____ is an iminent threat
+0~1~CVE-0000-1234 has been given the marketing name of _____
+0~1~We're just one good _____ attack away from the _____ catching on fire
+0~1~The Honeypot was designed to catch _____ attacks
+0~2~Turns out that Apache is vulnerable to a _____ exploit when attacked with _____
+0~2~Two factor auth with _____ and _____
+0~1~Wireless networking would be much more secure if people would just use a _____
+0~1~A botnet made of computers compromised by _____ vulns
+0~1~My email server was spamming people because I forgot to setup a _____ config
+0~1~_____ attacks are such a hot exploit right now
+0~2~The _____ we were using failed to catch a _____ attack
+0~1~Apparently it is a bad policy to post our _____ on the marketing website
+0~1~My new laptop came pre-installed with a _____ feature
+0~1~Even running in a VM won't protect you from _____ exploits
+0~2~You would never think that a _____ would be a vector for _____ attacks
+0~1~It's 2078 and people are still failing to adequately secure their _____ infrastructure
+0~1~Once you've been around long enough you can do _____ calculations in your head
+0~1~The AIs have taken over. Their only weakness is their love of _____ based vulnerabilities
+0~2~My first born is named _____ of the clan _____
+0~1~The toaster appears to have been compromised by a _____ exploit
+0~1~I found my _____ on HaveIBeenPwned.com
+0~2~My other _____ is a _____!
+0~2~My _____ just asked me to reset my _____
+0~1~My last password manager was a _____
+0~2~My CISO thought _____ was a _____

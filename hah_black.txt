@@ -1,52 +1,52 @@
-1#1#The drummer from the Goon Band only has one _____.
-1#1#I read about _____ in last month's Wired magazine
-1#1#Your _____ is bad, and you should feel bad
-1#1#Typing _____ into Google, then clicking "I'm feeling lucky".
-1#1#I went to the talk on _____, but didn't understand a thing.
-1#1#Is _____ hacked yet?
-1#1#I was into _____ before it was mainstream
-1#1#_____. I don't understand what I did to deserve this.
-1#1#I can't believe my opinion about _____ was cut from the DEF CON documentary.
-1#1#_____ will never be a problem again.
-1#1#_____, how does it work!?!?
-1#1#It's difficult to explain to friends and family why I know so much about _____.
-1#1#Who knew I'd be able to make a living off of _____?
-1#1#The NSA telephone metadata program has never stopped a terrorist attack, but it did finally put an end to _____.
-1#1#_____, and that's how I met the EFF.
-2#3#Describe The Dark Tangent (no more than 3 white cards)
-1#1#What does the fox say?
-1#1#I'm really looking forward to that talk about _____.
-1#1#The new version of Java finally adds support for _____.
-1#1#Much to my surprise, Wikileaks has no information on _____.
-1#1#When someone asks if you are a _____, you say "Yes"!
-1#1#Everyone thinks they're so great, but the only thing they're good at hacking is _____.
-1#1#Not sure if _____, or just trolling.
-2#2#_____ and _____, now kiss!
-1#1#_____? Let me tell you why that's bullshit.
-1#1#I didn't get the job because I said _____ in my DEF CON talk.
-2#2#Steve Jobs isn't dead. It turns out he's been _____ all along. I once saw _____. It was like looking into the face of God.
-1#1#Linus Torvalds' next project is code-named _____.
-1#1#I accidentally included _____ in my GitHub commit.
-1#1#_____, you're doing it wrong.
-1#1#_____ might be legendary, but it gets you a one-year ban from Con.
-1#1#I'm certain the NSA installed a backdoor into _____.
-1#1#_____ is no substitute for social skills, but it's a start.
-1#1#_____, I'll dip my balls in it!
-1#1#Lab Coats make _____ more awesome.
-1#1#I can't believe I didn't hear about _____ until after Con.
-1#1#_____, I want to go there.
-1#1#The Xbox One's DRM policy isn't half as bad as _____.
-1#1#Rainbows, unicorns, cupcakes, puppies, and _____.
-1#1#I'm no longer allowed near _____ after the incident with _____.
-1#1#Don't knock _____ until you've tried it.
-1#1#I heard the Target hack was actually caused by _____.
-1#1#I can't believe I saw _____ at E3, DEF CON, and AVN.
-1#1#_____ added and removed here. Smiley face.
-1#1#_____ is so complex it might be used for terrorism.
-1#1#A++++, would _____ again.
-1#1#_____: The opposite of what America did.
-1#1#In the event of _____, please proceed to the nearest emergency exit.
-1#1#I need someone to make _____ into an animated GIF.
-1#1#Sorry, our _____ is in another castle.
-2#2#By this time next year, we will be talking about _____ and have totally forgotten _____.
-1#1#WHAT THE FUCK IS A _____?!
+0~1~The drummer from the Goon Band only has one _____.
+0~1~I read about _____ in last month's Wired magazine
+0~1~Your _____ is bad, and you should feel bad
+0~1~Typing _____ into Google, then clicking "I'm feeling lucky".
+0~1~I went to the talk on _____, but didn't understand a thing.
+0~1~Is _____ hacked yet?
+0~1~I was into _____ before it was mainstream
+0~1~_____. I don't understand what I did to deserve this.
+0~1~I can't believe my opinion about _____ was cut from the DEF CON documentary.
+0~1~_____ will never be a problem again.
+0~1~_____, how does it work!?!?
+0~1~It's difficult to explain to friends and family why I know so much about _____.
+0~1~Who knew I'd be able to make a living off of _____?
+0~1~The NSA telephone metadata program has never stopped a terrorist attack, but it did finally put an end to _____.
+0~1~_____, and that's how I met the EFF.
+2~3~Describe The Dark Tangent (no more than 3 white cards)
+0~1~What does the fox say?
+0~1~I'm really looking forward to that talk about _____.
+0~1~The new version of Java finally adds support for _____.
+0~1~Much to my surprise, Wikileaks has no information on _____.
+0~1~When someone asks if you are a _____, you say "Yes"!
+0~1~Everyone thinks they're so great, but the only thing they're good at hacking is _____.
+0~1~Not sure if _____, or just trolling.
+0~2~_____ and _____, now kiss!
+0~1~_____? Let me tell you why that's bullshit.
+0~1~I didn't get the job because I said _____ in my DEF CON talk.
+0~2~Steve Jobs isn't dead. It turns out he's been _____ all along. I once saw _____. It was like looking into the face of God.
+0~1~Linus Torvalds' next project is code-named _____.
+0~1~I accidentally included _____ in my GitHub commit.
+0~1~_____, you're doing it wrong.
+0~1~_____ might be legendary, but it gets you a one-year ban from Con.
+0~1~I'm certain the NSA installed a backdoor into _____.
+0~1~_____ is no substitute for social skills, but it's a start.
+0~1~_____, I'll dip my balls in it!
+0~1~Lab Coats make _____ more awesome.
+0~1~I can't believe I didn't hear about _____ until after Con.
+0~1~_____, I want to go there.
+0~1~The Xbox One's DRM policy isn't half as bad as _____.
+0~1~Rainbows, unicorns, cupcakes, puppies, and _____.
+0~1~I'm no longer allowed near _____ after the incident with _____.
+0~1~Don't knock _____ until you've tried it.
+0~1~I heard the Target hack was actually caused by _____.
+0~1~I can't believe I saw _____ at E3, DEF CON, and AVN.
+0~1~_____ added and removed here. Smiley face.
+0~1~_____ is so complex it might be used for terrorism.
+0~1~A++++, would _____ again.
+0~1~_____: The opposite of what America did.
+0~1~In the event of _____, please proceed to the nearest emergency exit.
+0~1~I need someone to make _____ into an animated GIF.
+0~1~Sorry, our _____ is in another castle.
+0~2~By this time next year, we will be talking about _____ and have totally forgotten _____.
+0~1~WHAT THE FUCK IS A _____?!
