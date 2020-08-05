@@ -1,0 +1,16 @@
+0~1~_____ means never having to say you're sorry.
+0~1~The pen tester found _____ in the trash while dumpster diving.
+0~1~Our CIO has a framed a picture of _____.
+0~1~9 out of 10 experts agree, _____ will increase your security effectiveness.
+0~1~The man who trades _____ for security does not deserve, nor will he ever receive, either
+0~1~_____ can often represent the weakest.
+0~1~_____ will help make everything more secure.
+0~1~You can work around the issue by _____.
+0~1~Our in house team handles _____.
+0~1~Who needs network credentials when you have _____?
+0~1~I keep _____ in a case above my desk.
+0~1~When I'm not at work, I really enjoy _____.
+0~1~I wrote a syslog parser that found a user who was _____.
+0~1~Hey, did you hear about that new malware called _____?
+0~1~As a security admin, it probably won't come as a surprise to you that my favorite childhood hobby was _____.
+0~1~I was considering dating a security expert, until they gave me _____.

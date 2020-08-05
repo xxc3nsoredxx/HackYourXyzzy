@@ -1,0 +1,164 @@
+Database: heroku_1ed5a148e6d9415
+Table: black_cards
+[16 entries]
++----+--------------------------------------------------------------------------------------------------------------+
+| id | content                                                                                                      |
++----+--------------------------------------------------------------------------------------------------------------+
+| 1  | _____ means never having to say you're sorry.                                                                |
+| 2  | The pen tester found _____ in the trash while dumpster diving.                                               |
+| 3  | Our CIO has a framed a picture of _____.                                                                     |
+| 4  | 9 out of 10 experts agree, _____ will increase your security effectiveness.                                  |
+| 5  | The man who trades _____ for security does not deserve, nor will he ever receive, either                     |
+| 6  | _____ can often represent the weakest.                                                                       |
+| 7  | _____ will help make everything more secure.                                                                 |
+| 8  | You can work around the issue by _____.                                                                      |
+| 9  | Our in house team handles _____.                                                                             |
+| 10 | Who needs network credentials when you have _____?                                                           |
+| 11 | I keep _____ in a case above my desk.                                                                        |
+| 12 | When I'm not at work, I really enjoy _____.                                                                  |
+| 13 | I wrote a syslog parser that found a user who was _____.                                                     |
+| 14 | Hey, did you hear about that new malware called _____?                                                       |
+| 15 | As a security admin, it probably won't come as a surprise to you that my favorite childhood hobby was _____. |
+| 16 | I was considering dating a security expert, until they gave me _____.                                        |
++----+--------------------------------------------------------------------------------------------------------------+
+ 
+Database: heroku_1ed5a148e6d9415
+Table: white_cards
+[133 entries]
++-----+-----------------------------------------------------------------------+
+| id  | content                                                               |
++-----+-----------------------------------------------------------------------+
+| 1   | Edward Snowden in a musical about Kevin Mitnick.                      |
+| 2   | Poorly thought out password requirements.                             |
+| 3   | Skipping the 'hard' parts of PCI compliance.                          |
+| 4   | A code repository with no backups.                                    |
+| 5   | Two factor auth with a cereal box decoder ring.                       |
+| 6   | WikiLeaks.                                                            |
+| 8   | A Last Generation Firewall.                                           |
+| 9   | Leaked celebrity photos.                                              |
+| 10  | Halle Berry in Swordfish.                                             |
+| 11  | Polymorphic malware delivered via smoke signals.                      |
+| 12  | Using an exploit you saw on CSI:Cyber.                                |
+| 13  | Licking a UPS battery terminal to check if the battery is good.       |
+| 14  | Hillary Clinton's email server.                                       |
+| 15  | Hacking the planet.                                                   |
+| 16  | Trusting but not verifying.                                           |
+| 17  | Adding a firewall rule without first allowing your remote connection. |
+| 18  | Winnie The Pooh's Honeypot.                                           |
+| 19  | A pen test with an actual pen.                                        |
+| 20  | 1337 sp34k.                                                           |
+| 21  | A reality show about PCI compliance.                                  |
+| 22  | A firewall support call to Bangalore.                                 |
+| 23  | The vendor saying it was minor.                                       |
+| 24  | Running metasploit against whitehouse.gov.                            |
+| 25  | APTs created by a 9 year old.                                         |
+| 26  | Thinking your live threat map is a scene from War Games.              |
+| 27  | Implementing @SwiftOnSecurity tweets.                                 |
+| 28  | An admin account with a default password.                             |
+| 29  | Fileserver with a token ring card.                                    |
+| 30  | An ID-10-T error.                                                     |
+| 31  | An online bully who takes your lunch money.                           |
+| 32  | A book called 'Computer Forensics For Dummies'.                       |
+| 33  | A WIFI pineapple.                                                     |
+| 34  | Dropping a server onto your CTO's Porsche.                            |
+| 35  | An accidental factory reset.                                          |
+| 36  | An old switch you're too scared to replace.                           |
+| 37  | Sandra Bullock in The Net.                                            |
+| 38  | All of China and most of North Korea.                                 |
+| 39  | A 4 character password.                                               |
+| 40  | Transferring over sneakernet.                                         |
+| 41  | The man in the middle.                                                |
+| 42  | A password written on a post-it under your keyboard.                  |
+| 43  | An alert email from an unplugged server.                              |
+| 44  | A data breach of cat memes.                                           |
+| 45  | Awkward social engineering.                                           |
+| 46  | Heartbleed.                                                           |
+| 47  | An old version of OpenSSL.                                            |
+| 48  | Running your own IRC server.                                          |
+| 49  | A 300 baud acoustic coupler.                                          |
+| 50  | A deny any rule.                                                      |
+| 51  | ADHD reverse engineering.                                             |
+| 52  | A QSA you found on craigslist.org.                                    |
+| 53  | Getting blinded by an LX transceiver.                                 |
+| 54  | Nigerian princess spam.                                               |
+| 55  | chown -R nobody-nobody.                                               |
+| 56  | 6 games of Spot the Fed.                                              |
+| 57  | An allow any rule.                                                    |
+| 58  | Shellshock.                                                           |
+| 59  | Jumping the Wireshark.                                                |
+| 60  | Script kiddies from Romania.                                          |
+| 7   | Venom.                                                                |
+| 61  | John McAfee's Lecture circuit in Belize.                              |
+| 62  | The futility of hacking a refrigerator video feed.                    |
+| 63  | Insufficient caffeine.                                                |
+| 64  | A biometric-locked data center you can blind telnet into.             |
+| 65  | The TOR network.                                                      |
+| 66  | PC versus Mac security wars.                                          |
+| 67  | Your security analyst intern selling vulnerabilities for profit.      |
+| 68  | The Code Monkey song.                                                 |
+| 69  | Bruce Schneier vs. Chuck Norris at Maddison Square Garden.            |
+| 70  | Mikko Hypponen's ponytail.                                            |
+| 71  | A password cache posted to Pastebin.                                  |
+| 72  | An illustrated history of cryptography.                               |
+| 73  | Laser-generated random numbers for cryptography.                      |
+| 74  | A brute-force attack squad.                                           |
+| 75  | An original Cap'n Crunch whistle.                                     |
+| 76  | Time traveling phone phreaks from 1986.                               |
+| 77  | A 2600 Magazine Letter to the Editor.                                 |
+| 78  | Acting lessons at Security Theater.                                   |
+| 80  | A thorough TSA body cavity search.                                    |
+| 79  | One phish, two phish, red phish, Blowfish.                            |
+| 81  | Metasploit. Metasploit. Metasploit. It's just fun to say.             |
+| 82  | Old school wardialing with punch cards.                               |
+| 83  | It's a Unix system. I know this!                                      |
+| 84  | A sentient keystroke logger.                                          |
+| 85  | Atari 8 bit encryption.                                               |
+| 86  | Security through obscurity.                                           |
+| 87  | Illuminati steganography embedded in Wikipedia.                       |
+| 88  | A WoW auction hack.                                                   |
+| 89  | A playground visit from Cipher the Encryption Marmot.                 |
+| 90  | An undocumented feature appears!                                      |
+| 91  | The Gospel of Schneier.                                               |
+| 92  | A proper Oxford English dictionary attack.                            |
+| 93  | An ominous SSID of "Monitoring My Neighbors".                         |
+| 94  | A corny security themed music video on YouTube.                       |
+| 95  | A vicious slap fight at Defcon.                                       |
+| 96  | Biometric authentication using a severed thumb.                       |
+| 97  | Wannabes hacking Tumblr.                                              |
+| 98  | A Botox SQL injection.                                                |
+| 99  | 20M records stolen from the Rock & Roll Hall of Fame.                 |
+| 100 | Trojans, botnets and zombies. Oh my!                                  |
+| 101 | A politician explaining network security.                             |
+| 102 | Being demoted back to the helpdesk.                                   |
+| 103 | Using the server room micro-climate as a humidor.                     |
+| 104 | Explaining your security job to your mom.                             |
+| 105 | Patching your patch the next day.                                     |
+| 106 | Spoofing the CDC in an email to get out of work.                      |
+| 107 | Stalking someone through Ingress portal takeovers.                    |
+| 108 | Doxxing everyone you don't like.                                      |
+| 109 | Taking an XP box to BlackHat.                                         |
+| 110 | Hacking your partner's home security cameras.                         |
+| 111 | Retiring on the proceeds from dating-site scams.                      |
+| 112 | Sending emails to all your contacts about the Teddy Bear virus.       |
+| 113 | Using the same password for banking, social media, and your work VPN. |
+| 114 | Using the Tao of Pooh as a book cypher                                |
+| 115 | Citing the first and fourth amendments from memory.                   |
+| 116 | Texting while Wardriving.                                             |
+| 117 | Hosting a warez BBS on Dad's Apple IIe.                               |
+| 118 | Hacking the WOPR with cheese.                                         |
+| 119 | DDoSing your kids' Minecraft server.                                  |
+| 120 | Actually meeting complexity requirements.                             |
+| 121 | Commandeering SETI@home for nefarious purposes.                       |
+| 122 | Wardialing a series of tubes.                                         |
+| 123 | Borrowing an access card to the server room.                          |
+| 124 | Partying with the Feds.                                               |
+| 125 | Proxying blacked out sports streams through Antarctica.               |
+| 126 | Using PPTP over IPSec encapsulated in SSL.                            |
+| 127 | Browsing the Nickelodeon of the Deepweb                               |
+| 128 | Using a CAPTCHA flaw to access the IRS mainframe.                     |
+| 129 | Port knocking on backdoors.                                           |
+| 130 | Rooting the Timex Sinclair.                                           |
+| 131 | Exploiting MySpace at a 2004 hack-a-thon event.                       |
+| 132 | Port scanning using echolocation.                                     |
+| 133 | The surgeon general saying "Always use password protection".          |
++-----+-----------------------------------------------------------------------+
