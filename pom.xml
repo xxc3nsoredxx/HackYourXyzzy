@@ -168,6 +168,9 @@
         <version>9.3.0.v20150612</version>
 
         <configuration>
+          <httpConnector>
+            <port>80</port>
+          </httpConnector>
           <!-- Uncomment this to enable JMX in Jetty for debugging. -->
           <!-- <jettyXml>${appserver.web-inf.dir}/jetty-jmx.xml</jettyXml> -->
           <webApp>
