@@ -97,7 +97,7 @@ to, for instance, display the number of connected players.
     onclick="window.location='game.jsp';" />
 </p>
 <p>
-  Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
+  Hack Your Xyzzy is a fork of Pretend You're Xyzzy which is a Cards Against Humanity clone, which is available at
   <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
   or download and print it out yourself. It is distributed under a
   <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -

@@ -28,9 +28,11 @@ created for the user now.
 @author Andy Janata (ajanata@socialgamer.net)
 --%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<%--
 <%@ page import="com.google.inject.Injector" %>
 <%@ page import="com.google.inject.Key" %>
 <%@ page import="com.google.inject.TypeLiteral" %>
+--%>
 <%@ page import="javax.servlet.http.HttpSession" %>
 <%@ page import="net.socialgamer.cah.RequestWrapper" %>
 <%@ page import="net.socialgamer.cah.StartupUtils" %>
@@ -78,7 +80,6 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
 <script type="text/javascript" src="js/cah.app.js"></script>
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="jquery-ui.min.css" media="screen" />
-<jsp:include page="analytics.jsp" />
 </head>
 <body id="gamebody">
 
