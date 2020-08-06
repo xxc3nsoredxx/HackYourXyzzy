@@ -89,7 +89,6 @@ to, for instance, display the number of connected players.
       for now.</li>
 	  </ul>
   </li>
-  <li>You can't bet Awesome Points to play another card, and I am unsure if I will add this.</li>
 </ul>
 <p>
   <input type="button" value="I have read the above; Take me to the game!"
