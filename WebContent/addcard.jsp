@@ -117,7 +117,7 @@ if (color != null) {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>PYX - Add Cards</title>
+<title>HYX - Add Cards</title>
 </head>
 <body>
 <span style="color:red"><%= error %></span>
