@@ -47,6 +47,8 @@ to, for instance, display the number of connected players.
 <p>
   Your computer's IP address will <strong>NOT</strong> be logged assuming I managed to strip out the logging code.
 </p>
+<p>File bugs either in <a href="https://github.com/xxc3nsoredxx/HackYourXyzzy">my repo</a> or in
+<a href="https://github.com/ajanata/PretendYoureXyzzy">the original repo</a>.</p>
 <p>Recent Changes:</p>
 <ul>
   <li>2020-08-05: Prepped for DEF CON Safe Mode</li>
