@@ -138,7 +138,7 @@ try {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy: View Cards</title>
+<title>Hack Your Xyzzy: View Cards</title>
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.js"></script>
 <script type="text/javascript" src="js/jquery.cookie.js"></script>
@@ -148,7 +148,6 @@ try {
 <script type="text/javascript" src="js/jquery.tablesorter.js"></script>
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="jquery-ui.min.css" media="screen" />
-<jsp:include page="analytics.jsp" />
 <script type="text/javascript">
 var data = <%= JSONValue.toJSONString(data) %>;
 
