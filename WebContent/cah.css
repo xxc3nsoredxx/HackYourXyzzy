@@ -647,10 +647,6 @@ dfn {
   border-bottom: 1px dotted black;
 }
 
-#tweetbox {
-  float: right;
-}
-
 .gamelink {
   cursor: pointer;
   text-decoration: underline;

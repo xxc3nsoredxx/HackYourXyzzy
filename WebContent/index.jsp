@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <%--
 Copyright (c) 2012-2018, Andy Janata
+Modified 2020, xxc3nsoredxx
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted
@@ -33,35 +34,22 @@ to, for instance, display the number of connected players.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Pretend You're Xyzzy</title>
-<jsp:include page="analytics.jsp" />
+<title>Hack Your Xyzzy</title>
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
 </head>
 <body>
-<div id="tweetbox">
-  <h3>Recent tweets (mainly server status updates)</h3>
-  <a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="light"
-  href="https://twitter.com/_PYX_?ref_src=twsrc%5Etfw">Tweets by _PYX_</a>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 <h1>
-  Pretend You're <dfn style="border-bottom: 1px dotted black"
+  Hack Your <dfn style="border-bottom: 1px dotted black"
   title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Xyzzy</dfn>
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
 <p>
-  Your computer's IP address will <strong>always</strong> be logged when you load the game client.
-  It is not tied in any way to your username, except possibly if a server error occurs. Gameplay
-  results are logged permanently, but without information identifying you.
+  Your computer's IP address will <strong>NOT</strong> be logged assuming I managed to strip out the logging code.
 </p>
 <p>Recent Changes:</p>
 <ul>
-  <li>3 September 2018:<ul>
-    <li>All chat and fill-in-the-blank cards have been disabled. If you're still out of the loop,
-    <a href="https://gist.githubusercontent.com/ajanata/07ededdb584f7bb77a8c7191d3a4bbcc/raw/e76faacc19c2bb598a1a8fd94b9ebcb29c5502e0">
-    here's why.</a></li>
-  </ul></li>
+  <li>2020-08-05: Prepped for DEF CON Safe Mode</li>
   <li><a href="changelog.html">Older entries.</a></li>
 </ul>
 <p>Known issues:</p>
@@ -69,12 +57,6 @@ to, for instance, display the number of connected players.
   <li><strong>Do not open the game more than once in the same browser.</strong> Neither instance
   will receive all data from the server, and you will not be able to play. I have an idea on how to
   fix this, but I haven't had time to do so.</li>
-  <li>This game was extensively tested in <a href="http://google.com/chrome">Google Chrome</a>.
-  It should work in all recent versions of major browsers, but it may not look 100% as intended. If
-  you find a major issue, please
-  <a href="https://github.com/ajanata/PretendYoureXyzzy/issues/new">open a bug on GitHub</a> with a
-  screenshot and the name and version of the browser you are using, and I'll try to fix it.
-  </li>
   <li>You may not always see your card in the top area after you play it, but it has been played.
   Also, sometimes the card will display in the top area but be small. I have no idea why either of
   these happen.</li>
@@ -109,17 +91,6 @@ to, for instance, display the number of connected players.
   </li>
   <li>You can't bet Awesome Points to play another card, and I am unsure if I will add this.</li>
 </ul>
-<p>Future enhancements:</p>
-<ul>
-  <li>There may be an option to display who played every card.</li>
-  <li>A registration system and long-term statistics tracking may be added at some point.</li>
-</ul>
-<p>
-  If the game seems to be in a weird state, refresh the page and it should take you back to where
-  you were. It would be helpful to take a screenshot and include it in a
-  <a href="https://github.com/ajanata/PretendYoureXyzzy/issues/new">new bug on GitHub</a> along with
-  a general description of the problem and the time that it happened (include a time zone please!).
-</p>
 <p>
   <input type="button" value="I have read the above; Take me to the game!"
     onclick="window.location='game.jsp';" />
@@ -131,7 +102,7 @@ to, for instance, display the number of connected players.
   <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
   Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
   cardsagainsthumanity.com. You may download the source code to this version from
-  <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
+  <a href="https://github.com/xxc3nsoredxx/HackYourXyzzy">GitHub</a>. For full license
   information, including information about included libraries, see the
   <a href="license.html">full license information</a>.
 </p>
