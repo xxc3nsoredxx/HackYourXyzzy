@@ -498,6 +498,7 @@ INSERT INTO white_cards VALUES(382,'Port scanning using echolocation.','CAS');
 INSERT INTO white_cards VALUES(383,'The surgeon general saying "Always use password protection".','CAS');
 CREATE TABLE card_set (id integer, active integer not null, base_deck integer not null, description varchar, name varchar, weight integer not null, primary key (id));
 INSERT INTO card_set VALUES(1,1,0,'Hackers Against Humanity deck by Vegas 2.0','Hackers Against Humanity',1);
+INSERT INTO card_set VALUES(2,1,0,'Cards Against IT by Varonis','Cards Against IT',1);
 INSERT INTO card_set VALUES(3,1,0,'Infosec expansion for Cards Against IT by Varonis','Cards Against Infosec',1);
 INSERT INTO card_set VALUES(4,1,0,'Cards Against Security','Cards Against Security',1);
 CREATE TABLE card_set_black_card (card_set_id integer not null, black_card_id integer not null, primary key(card_set_id, black_card_id));

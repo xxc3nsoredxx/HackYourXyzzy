@@ -61,6 +61,7 @@ for i in range(len(white_cards)):
 # Create card_set table
 sql_file.write("CREATE TABLE card_set (id integer, active integer not null, base_deck integer not null, description varchar, name varchar, weight integer not null, primary key (id));\n")
 sql_file.write(f"INSERT INTO card_set VALUES({hah_deck[0]},{hah_deck[1]},{hah_deck[2]},'{hah_deck[3]}','{hah_deck[4]}',{hah_deck[5]});\n")
+sql_file.write(f"INSERT INTO card_set VALUES({cait_deck[0]},{cait_deck[1]},{cait_deck[2]},'{cait_deck[3]}','{cait_deck[4]}',{cait_deck[5]});\n")
 sql_file.write(f"INSERT INTO card_set VALUES({cais_deck[0]},{cais_deck[1]},{cais_deck[2]},'{cais_deck[3]}','{cais_deck[4]}',{cais_deck[5]});\n")
 sql_file.write(f"INSERT INTO card_set VALUES({cas_deck[0]},{cas_deck[1]},{cas_deck[2]},'{cas_deck[3]}','{cas_deck[4]}',{cas_deck[5]});\n")
 
