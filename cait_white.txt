@@ -1,0 +1,44 @@
+Rotating the Bakup Tape
+rm -rf --no-preserve-root /*.*
+a faulty crossover cable
+a KVM with a broken M
+a one button mouse
+a laser pointer
+scanning a little too much with nmap
+a coffee stained mousepad
+a webcam pointed at the coffee maker
+a bastion host
+a salvaged motherboard with a parallel port
+a razorsharp punchdown tool
+my rooted phone
+a mouse connected serial -> PS/2 -> USB
+0118 999 881 999 119 725...3
+my password
+a fingerprint scanner
+a scanning electron microscope
+a helpdesk ticket to "fix the CPU"
+a hard drive degaussing machine
+a multitool with a bottle opener
+a large database connection pool
+a rainbow pack of 3.5" floppy disks
+a USB stick found in the parking lot
+an Arduino running NetBSD
+a shell script written in OCaml
+Edward Snowden
+CryptoLocker
+Stuxnet
+a serial port mouse
+5000 free AOL CDs
+Angelina Jolie in Hackers
+an RJ-45 crimping tool
+Clippy
+two factor auth
+Have you tried turning it off and on again
+a flaky VPN connection
+script kiddies
+an IP webcam with a default password
+rebuilding a RAID array
+manually fixing 10/100/1000 'auto' negotiation
+viewing web filter block logs
+the server is down
+pinging 127.0.0.1

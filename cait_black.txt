@@ -1,0 +1,16 @@
+0~1~The new IT director has a sick tattoo of _____
+0~1~The last consultant was fired over _____
+0~1~In a pinch, _____ can be used to remote reboot a server
+0~1~_____ is Layer 8 of the OSI networking model
+0~1~Forgetting _____ in the datacenter is a firing offense
+0~1~We're going to use _____ instead of updating to IPv6
+0~2~_____ is the last stage of our _____ rollout
+0~1~That red plunger switch on the wall launches _____
+0~1~I got this coffee mug from a conference about _____ back in 1997
+0~1~Had a user fall prey to a sophisticated _____ phishing attack
+0~1~Forgot my badge this morning and had to use _____ to get in
+0~1~_____ is now included for free with every OS update
+0~2~_____ is now required every time you restart _____
+0~1~The hot new videogame this year is _____ Simulator
+0~2~A helpdesk call to fix _____ with _____
+0~1~I just got a new certification in _____
