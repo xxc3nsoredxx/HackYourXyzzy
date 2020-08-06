@@ -174,6 +174,7 @@
           <!-- Uncomment this to enable JMX in Jetty for debugging. -->
           <!-- <jettyXml>${appserver.web-inf.dir}/jetty-jmx.xml</jettyXml> -->
           <webApp>
+            <contextPath>/zy</contextPath>
             <!--<defaultsDescriptor>${project.basedir}/jetty-defaults.xml</defaultsDescriptor> -->
             <descriptor>${project.build.directory}/${project.build.artifact.name}/WEB-INF/web.xml</descriptor>
             <resourceBases>
