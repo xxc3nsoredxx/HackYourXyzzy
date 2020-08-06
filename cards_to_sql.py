@@ -35,9 +35,9 @@ for line in hah_white_cards_file.readlines():
 for line in cait_white_cards_file.readlines():
     white_cards.append((2, line.strip(), "CAIT"))
 for line in cais_white_cards_file.readlines():
-    white_cards.append((2, line.strip(), "CAIS"))
+    white_cards.append((3, line.strip(), "CAIS"))
 for line in cas_white_cards_file.readlines():
-    white_cards.append((3, line.strip(), "CAS"))
+    white_cards.append((4, line.strip(), "CAS"))
 
 # Begin the splqite transaction
 sql_file.write("PRAGMA foreign_keys=OFF;\n")
