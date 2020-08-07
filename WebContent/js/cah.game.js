@@ -327,7 +327,7 @@ cah.Game = function(id) {
 cah.Game.joinGame = function(gameId, data) {
   cah.Ajax.build(cah.$.AjaxOperation.GET_GAME_INFO).withGameId(gameId).run();
   cah.Ajax.build(cah.$.AjaxOperation.GET_CARDS).withGameId(gameId).run();
-  cah.Ajax.build(cah.$.AjaxOperation.CARDCAST_LIST_CARDSETS).withGameId(gameId).run();
+  /* cah.Ajax.build(cah.$.AjaxOperation.CARDCAST_LIST_CARDSETS).withGameId(gameId).run(); */
   cah.GameList.instance.hide();
   var game = new cah.Game(gameId);
   cah.currentGames[gameId] = game;
@@ -792,7 +792,7 @@ cah.Game.prototype.insertIntoDocument = function() {
  *          data Payload from server.
  */
 cah.Game.prototype.addCardcastDeck = function(data) {
-  this.displayCardcastDeckMessage_(data[cah.$.LongPollResponse.CARDCAST_DECK_INFO], "Added");
+  /* this.displayCardcastDeckMessage_(data[cah.$.LongPollResponse.CARDCAST_DECK_INFO], "Added"); */
 };
 
 /**
@@ -802,7 +802,7 @@ cah.Game.prototype.addCardcastDeck = function(data) {
  *          data Payload from server.
  */
 cah.Game.prototype.removeCardcastDeck = function(data) {
-  this.displayCardcastDeckMessage_(data[cah.$.LongPollResponse.CARDCAST_DECK_INFO], "Removed");
+  /* this.displayCardcastDeckMessage_(data[cah.$.LongPollResponse.CARDCAST_DECK_INFO], "Removed"); */
 };
 
 /**
@@ -812,13 +812,13 @@ cah.Game.prototype.removeCardcastDeck = function(data) {
  *          data Array of CardSetDatas.
  */
 cah.Game.prototype.listCardcastDecks = function(cardSets) {
-  cah.log.status_with_game(this, "The following <a target='_blank'"
-      + " href='http://www.cardcastgame.com'>Cardcast</a> decks are in use in this game (<a"
-      + " target='_blank' href='https://github.com/ajanata/PretendYoureXyzzy/wiki/Cardcast'>"
-      + "instructions</a>):", 'admin', true);
-  for ( var key in cardSets) {
-    var cardSetData = cardSets[key];
-    this.displayCardcastDeckMessage_(cardSetData, "In use");
+  /* cah.log.status_with_game(this, "The following <a target='_blank'" */
+      /* + " href='http://www.cardcastgame.com'>Cardcast</a> decks are in use in this game (<a" */
+      /* + " target='_blank' href='https://github.com/ajanata/PretendYoureXyzzy/wiki/Cardcast'>" */
+      /* + "instructions</a>):", 'admin', true); */
+  /* for ( var key in cardSets) { */
+    /* var cardSetData = cardSets[key]; */
+    /* this.displayCardcastDeckMessage_(cardSetData, "In use"); */
   }
 };
 
@@ -832,12 +832,12 @@ cah.Game.prototype.listCardcastDecks = function(cardSets) {
  * @private
  */
 cah.Game.prototype.displayCardcastDeckMessage_ = function(deckInfo, verb) {
-  var code = ("00000" + (-1 * deckInfo[cah.$.CardSetData.ID]).toString(36).toUpperCase()).slice(-5);
-  var str = verb + ": Cardcast deck '" + deckInfo[cah.$.CardSetData.CARD_SET_NAME]
-      + "' (code: <a target='_blank' href='http://www.cardcastgame.com/browse/deck/" + code + "'> "
-      + code + "</a>), with " + deckInfo[cah.$.CardSetData.BLACK_CARDS_IN_DECK]
-      + " black cards and " + deckInfo[cah.$.CardSetData.WHITE_CARDS_IN_DECK] + " white cards.";
-  cah.log.status_with_game(this, str, 'admin', true);
+  /* var code = ("00000" + (-1 * deckInfo[cah.$.CardSetData.ID]).toString(36).toUpperCase()).slice(-5); */
+  /* var str = verb + ": Cardcast deck '" + deckInfo[cah.$.CardSetData.CARD_SET_NAME] */
+      /* + "' (code: <a target='_blank' href='http://www.cardcastgame.com/browse/deck/" + code + "'> " */
+      /* + code + "</a>), with " + deckInfo[cah.$.CardSetData.BLACK_CARDS_IN_DECK] */
+      /* + " black cards and " + deckInfo[cah.$.CardSetData.WHITE_CARDS_IN_DECK] + " white cards."; */
+  /* cah.log.status_with_game(this, str, 'admin', true); */
 };
 
 /**
