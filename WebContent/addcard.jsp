@@ -118,6 +118,7 @@ if (color != null) {
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>HYX - Add Cards</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 <body>
 <span style="color:red"><%= error %></span>

@@ -211,6 +211,7 @@ table td {
   padding: 5px;
 }
 </style>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 <body>
 <div style="float: left;">

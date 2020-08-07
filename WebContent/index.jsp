@@ -36,6 +36,7 @@ to, for instance, display the number of connected players.
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Hack Your Xyzzy</title>
 <link rel="stylesheet" type="text/css" href="cah.css" media="screen" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 <body>
 <h1>
