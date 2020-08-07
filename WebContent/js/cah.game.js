@@ -819,7 +819,7 @@ cah.Game.prototype.listCardcastDecks = function(cardSets) {
   /* for ( var key in cardSets) { */
     /* var cardSetData = cardSets[key]; */
     /* this.displayCardcastDeckMessage_(cardSetData, "In use"); */
-  }
+  /* } */
 };
 
 /**
